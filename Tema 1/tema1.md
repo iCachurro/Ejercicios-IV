@@ -43,7 +43,11 @@ Suponiendo que todos los meses tiene 30 días, por tanto tenemos 720 horas mensu
 
 
 
+![Captura CDE]()
 
+Ubuntu:
+
+![Captura Ubuntu]()
 
 
 
@@ -53,7 +57,7 @@ Suponiendo que todos los meses tiene 30 días, por tanto tenemos 720 horas mensu
 
 En el caso de macOS, ha de usarse el comando ```sysctl -a | grep machdep.cpu``` donde aparece **VMX**
 
-![Captura sysctl -a | grep machdep.cpu](https://github.com/iCachurro/Ejercicios-IV/blob/master/Tema%201/Capturas/Ejercicio4.png)
+![Captura sysctl -a | grep machdep.cpu](Capturas/Ejercicio4.png)
 
 
 ### Ejercicio 5:
@@ -64,5 +68,5 @@ Por el ejercicio anterior, se demuestra que macOS es capaz de crear los disposit
 
 ### Apartado 2: Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 
-![VMware Fusion](https://github.com/iCachurro/Ejercicios-IV/blob/master/Tema%201/Capturas/Ejercicio5.2.png)
+![VMware Fusion](Capturas/Ejercicio5.2.png)
 
