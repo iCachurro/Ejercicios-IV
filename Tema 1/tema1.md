@@ -44,11 +44,11 @@ Suponiendo que todos los meses tiene 30 días, por tanto tenemos 720 horas mensu
 
 
 
-![Captura CDE]()
+![Captura CDE](Capturas/Ejercicio3-1.png)
 
 Ubuntu:
 
-![Captura Ubuntu]()
+![Captura Ubuntu](Capturas/Ejercicio3-2.png)
 
 
 
