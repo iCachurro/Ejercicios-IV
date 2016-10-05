@@ -24,6 +24,7 @@ Suponiendo que todos los meses tiene 30 días, por tanto tenemos 720 horas mensu
 -Para el 10% de uso al mes es: 72 horas
 
 | Compañia  | Procesador | RAM | Disco | €/hora | Coste 1% uso al mes | Coste 10% uso al mes |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [OHV.es SP-60](https://www.ovh.es/vps/vps-cloud-ram.xml)  | 4 vCores 2,4 GHz | 60 GB | 400 GB | 0.194 €/hora | 1.40 € | 14 € | 
 | [1&1 Servidor Cloud FLEX](https://www.1and1.es/costs?__lf=Order-Tariff) | 4 vCores 2,0 GHz | 60 GB | 400 GB| 0.640 €/hora | 4.61 € | 46.1 € |
 
