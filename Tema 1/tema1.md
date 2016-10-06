@@ -56,7 +56,7 @@ Ubuntu:
 
 **Procesador -->** Intel(R) Core(TM)2 Duo CPU     P8800  @ 2.66GHz
 
-En el caso de macOS, ha de usarse el comando ```sysctl -a | grep machdep.cpu``` donde aparece **VMX**
+En el caso de macOS, ha de usarse el comando ```sysctl -a | grep machdep.cpu.features``` donde aparece **VMX**
 
 ![Captura sysctl -a | grep machdep.cpu](Capturas/Ejercicio4.png)
 
