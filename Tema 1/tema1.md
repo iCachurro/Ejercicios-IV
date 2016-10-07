@@ -33,6 +33,8 @@ Suponiendo que todos los meses tiene 30 días, por tanto tenemos 720 horas mensu
 
 ### Apartado 1: ¿Qué tipo de virtualización usarías en cada caso? Comentar en el foro
 
+[Enlace al foro](https://github.com/JJ/IV16-17/issues/1)
+
 **-Virtualización plena -->** Programa para virtualizar un sistema completo.
 **-Virtualización parcial -->** Para simular más memoria RAM de la que dispongo, el SO virtualiza parte del disco duro como si fuera memoría RAM.
 **-Virtualización a nivel de sistema operativo -->** En un servidor pueden convivir varios SO virtualizados, de esta forma, se virtualizan los recursos y ellos creen que son los anfitriones.
