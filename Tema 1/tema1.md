@@ -33,13 +33,13 @@ Suponiendo que todos los meses tiene 30 días, por tanto tenemos 720 horas mensu
 
 ### Apartado 1: ¿Qué tipo de virtualización usarías en cada caso? Comentar en el foro
 
-[Enlace al foro](https://github.com/JJ/IV16-17/issues/1)
+[Enlace al foro, iCachurro](https://github.com/JJ/IV16-17/issues/1)
 
-**-Virtualización plena -->** Programa para virtualizar un sistema completo.
-**-Virtualización parcial -->** Para simular más memoria RAM de la que dispongo, el SO virtualiza parte del disco duro como si fuera memoría RAM.
-**-Virtualización a nivel de sistema operativo -->** En un servidor pueden convivir varios SO virtualizados, de esta forma, se virtualizan los recursos y ellos creen que son los anfitriones.
-**-Virtualización de aplicaciones -->** Para poder usar una aplicación que ha sido creada para un SO distinto al anfitrión.
-**-Virtualización de entornos de desarrollo -->** Para poder comprobar que lo desarrollado funciona, sin afectar ni perjudiar al anfitrión ante u posible error.
+- **Virtualización plena -->** Programa para virtualizar un sistema completo.
+- **Virtualización parcial -->** Para simular más memoria RAM de la que dispongo, el SO virtualiza parte del disco duro como si fuera memoría RAM.
+- **Virtualización a nivel de sistema operativo -->** En un servidor pueden convivir varios SO virtualizados, de esta forma, se virtualizan los recursos y ellos creen que son los anfitriones.
+- **Virtualización de aplicaciones -->** Para poder usar una aplicación que ha sido creada para un SO distinto al anfitrión.
+- **Virtualización de entornos de desarrollo -->** Para poder comprobar que lo desarrollado funciona, sin afectar ni perjudiar al anfitrión ante u posible error.
 
 
 ### Apartado 2: Crear un programa simple en cualquier lenguaje interpretado para Linux, empaquetarlo con CDE y probarlo en diferentes distribuciones
